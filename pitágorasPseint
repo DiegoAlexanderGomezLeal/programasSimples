@@ -1,0 +1,10 @@
+Algoritmo pitagoras
+	Escribir "Ingrese el cateto A"
+	Leer CA
+	
+	Escribir "ingrese el cateto B"
+	Leer CB
+	
+	hipotenusa = ((CA^2)+ (CB^2)) ^0.5
+	Escribir "la hipotenusa es", hipotenusa 
+FinAlgoritmo
