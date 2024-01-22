@@ -1,0 +1,7 @@
+Algoritmo Saludo
+	Escribir "ingrese su nombre"
+	Definir A Como Caracter
+	Leer  A
+	Escribir "hola " + A
+
+FinAlgoritmo
